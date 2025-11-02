@@ -22,7 +22,7 @@ export default {
   site: {
     host: CNAME,
     url: "http://" + CNAME,
-    // github: "https://github.com/robotism/gitinsight",
+    github: "https://github.com/robotism/termicu",
   },
   style: {
     header: {
